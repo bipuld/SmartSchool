@@ -1,0 +1,300 @@
+2025-05-12 21:21:39,314 INFO Watching for file changes with StatReloader 667 
+2025-05-12 21:22:07,842 INFO E:\coding\python\django\Category_API\school_mgmt\school_mgmt\urls.py changed, reloading. 265 
+2025-05-12 21:22:08,424 INFO Watching for file changes with StatReloader 667 
+2025-05-12 21:22:11,864 INFO E:\coding\python\django\Category_API\school_mgmt\school_mgmt\urls.py changed, reloading. 265 
+2025-05-12 21:22:12,420 INFO Watching for file changes with StatReloader 667 
+2025-05-12 21:22:27,195 INFO E:\coding\python\django\Category_API\school_mgmt\school_mgmt\urls.py changed, reloading. 265 
+2025-05-12 21:22:27,761 INFO Watching for file changes with StatReloader 667 
+2025-05-12 21:22:45,524 INFO Watching for file changes with StatReloader 667 
+2025-05-12 21:23:01,046 INFO Watching for file changes with StatReloader 667 
+2025-05-12 21:23:19,876 INFO "GET /admin/notification/notification/ HTTP/1.1" 302 0 213 
+2025-05-12 21:23:20,052 INFO "GET /admin/login/?next=/admin/notification/notification/ HTTP/1.1" 200 4225 213 
+2025-05-12 21:23:20,336 INFO "GET /static/admin/css/base.css HTTP/1.1" 200 22120 213 
+2025-05-12 21:23:20,340 INFO "GET /static/admin/css/dark_mode.css HTTP/1.1" 200 2808 213 
+2025-05-12 21:23:20,347 INFO "GET /static/admin/css/login.css HTTP/1.1" 200 951 213 
+2025-05-12 21:23:20,348 INFO "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2810 213 
+2025-05-12 21:23:20,354 INFO "GET /static/admin/css/responsive.css HTTP/1.1" 200 16565 213 
+2025-05-12 21:23:20,369 INFO "GET /static/admin/js/theme.js HTTP/1.1" 200 1653 213 
+2025-05-12 21:23:20,722 INFO "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063 213 
+2025-05-12 21:23:21,541 WARNING Not Found: /favicon.ico 248 
+2025-05-12 21:23:21,542 WARNING "GET /favicon.ico HTTP/1.1" 404 2382 213 
+2025-05-12 21:23:23,730 WARNING Not Found: /docs 248 
+2025-05-12 21:23:23,731 WARNING "GET /docs HTTP/1.1" 404 2361 213 
+2025-05-12 21:23:38,201 INFO "GET / HTTP/1.1" 200 2209 213 
+2025-05-12 21:23:38,232 INFO "GET /static/drf-yasg/style.css HTTP/1.1" 200 1047 213 
+2025-05-12 21:23:38,247 INFO "GET /static/drf-yasg/swagger-ui-dist/swagger-ui.css HTTP/1.1" 200 145206 213 
+2025-05-12 21:23:38,260 INFO "GET /static/drf-yasg/insQ.min.js HTTP/1.1" 200 2093 213 
+2025-05-12 21:23:38,269 INFO "GET /static/drf-yasg/swagger-ui-init.js HTTP/1.1" 200 15480 213 
+2025-05-12 21:23:38,279 INFO "GET /static/drf-yasg/swagger-ui-dist/swagger-ui-bundle.js HTTP/1.1" 200 1046583 213 
+2025-05-12 21:23:38,290 INFO "GET /static/drf-yasg/immutable.min.js HTTP/1.1" 200 56904 213 
+2025-05-12 21:23:38,360 INFO "GET /static/drf-yasg/swagger-ui-dist/swagger-ui-standalone-preset.js HTTP/1.1" 200 322863 213 
+2025-05-12 21:23:38,463 INFO "GET /static/drf-yasg/swagger-ui-dist/favicon-32x32.png HTTP/1.1" 200 628 213 
+2025-05-12 21:23:38,529 INFO "GET /?format=openapi HTTP/1.1" 200 477 213 
+2025-05-12 21:24:48,961 INFO E:\coding\python\django\Category_API\school_mgmt\school_mgmt\urls.py changed, reloading. 265 
+2025-05-12 21:24:49,577 INFO Watching for file changes with StatReloader 667 
+2025-05-12 21:24:55,194 INFO E:\coding\python\django\Category_API\school_mgmt\school_mgmt\urls.py changed, reloading. 265 
+2025-05-12 21:24:55,813 INFO Watching for file changes with StatReloader 667 
+2025-05-12 21:24:58,359 INFO E:\coding\python\django\Category_API\school_mgmt\school_mgmt\urls.py changed, reloading. 265 
+2025-05-12 21:24:59,008 INFO Watching for file changes with StatReloader 667 
+2025-05-12 21:25:02,030 INFO "GET / HTTP/1.1" 200 2210 213 
+2025-05-12 21:25:02,050 INFO "GET /static/drf-yasg/style.css HTTP/1.1" 304 0 213 
+2025-05-12 21:25:02,052 INFO "GET /static/drf-yasg/swagger-ui-dist/swagger-ui.css HTTP/1.1" 304 0 213 
+2025-05-12 21:25:02,054 INFO "GET /static/drf-yasg/swagger-ui-dist/swagger-ui-bundle.js HTTP/1.1" 304 0 213 
+2025-05-12 21:25:02,055 INFO "GET /static/drf-yasg/swagger-ui-dist/swagger-ui-standalone-preset.js HTTP/1.1" 304 0 213 
+2025-05-12 21:25:02,057 INFO "GET /static/drf-yasg/insQ.min.js HTTP/1.1" 304 0 213 
+2025-05-12 21:25:02,057 INFO "GET /static/drf-yasg/immutable.min.js HTTP/1.1" 304 0 213 
+2025-05-12 21:25:02,059 INFO "GET /static/drf-yasg/swagger-ui-init.js HTTP/1.1" 304 0 213 
+2025-05-12 21:25:02,217 INFO "GET /static/drf-yasg/swagger-ui-dist/favicon-32x32.png HTTP/1.1" 304 0 213 
+2025-05-12 21:25:02,291 INFO "GET /?format=openapi HTTP/1.1" 200 448 213 
+2025-05-12 21:25:14,728 WARNING Not Found: /accounts/login/ 248 
+2025-05-12 21:25:14,729 WARNING "GET /accounts/login/?next=/ HTTP/1.1" 404 2401 213 
+2025-05-12 21:25:36,032 INFO E:\coding\python\django\Category_API\school_mgmt\school_mgmt\urls.py changed, reloading. 265 
+2025-05-12 21:25:36,607 INFO Watching for file changes with StatReloader 667 
+2025-05-12 21:26:49,929 INFO E:\coding\python\django\Category_API\school_mgmt\school_mgmt\urls.py changed, reloading. 265 
+2025-05-12 21:26:50,536 INFO Watching for file changes with StatReloader 667 
+2025-05-12 21:26:56,211 INFO E:\coding\python\django\Category_API\school_mgmt\school_mgmt\urls.py changed, reloading. 265 
+2025-05-12 21:26:56,844 INFO Watching for file changes with StatReloader 667 
+2025-05-12 21:27:07,675 INFO E:\coding\python\django\Category_API\school_mgmt\school_mgmt\urls.py changed, reloading. 265 
+2025-05-12 21:27:08,302 INFO Watching for file changes with StatReloader 667 
+2025-05-12 21:27:14,775 INFO E:\coding\python\django\Category_API\school_mgmt\school_mgmt\urls.py changed, reloading. 265 
+2025-05-12 21:27:15,364 INFO Watching for file changes with StatReloader 667 
+2025-05-12 21:27:20,808 INFO E:\coding\python\django\Category_API\school_mgmt\school_mgmt\urls.py changed, reloading. 265 
+2025-05-12 21:27:21,424 INFO Watching for file changes with StatReloader 667 
+2025-05-12 21:27:28,088 INFO E:\coding\python\django\Category_API\school_mgmt\school_mgmt\urls.py changed, reloading. 265 
+2025-05-12 21:27:28,700 INFO Watching for file changes with StatReloader 667 
+2025-05-12 21:29:00,652 INFO E:\coding\python\django\Category_API\school_mgmt\school_mgmt\urls.py changed, reloading. 265 
+2025-05-12 21:29:01,264 INFO Watching for file changes with StatReloader 667 
+2025-05-12 21:41:03,730 INFO Watching for file changes with StatReloader 667 
+2025-05-12 21:42:49,127 INFO E:\coding\python\django\Category_API\school_mgmt\school_mgmt\urls.py changed, reloading. 265 
+2025-05-12 21:42:49,781 INFO Watching for file changes with StatReloader 667 
+2025-05-12 21:42:53,178 INFO E:\coding\python\django\Category_API\school_mgmt\school_mgmt\urls.py changed, reloading. 265 
+2025-05-12 21:42:53,811 INFO Watching for file changes with StatReloader 667 
+2025-05-12 21:42:56,140 INFO E:\coding\python\django\Category_API\school_mgmt\school_mgmt\urls.py changed, reloading. 265 
+2025-05-12 21:42:56,779 INFO Watching for file changes with StatReloader 667 
+2025-05-12 21:43:00,752 INFO Watching for file changes with StatReloader 667 
+2025-05-12 21:43:14,578 INFO E:\coding\python\django\Category_API\school_mgmt\school_mgmt\urls.py changed, reloading. 265 
+2025-05-12 21:43:15,154 INFO Watching for file changes with StatReloader 667 
+2025-05-12 21:43:21,768 INFO E:\coding\python\django\Category_API\school_mgmt\school_mgmt\urls.py changed, reloading. 265 
+2025-05-12 21:43:22,514 INFO Watching for file changes with StatReloader 667 
+2025-05-12 21:43:46,628 INFO E:\coding\python\django\Category_API\school_mgmt\school_mgmt\settings.py changed, reloading. 265 
+2025-05-12 21:43:57,979 INFO Watching for file changes with StatReloader 667 
+2025-05-12 21:44:05,469 INFO E:\coding\python\django\Category_API\school_mgmt\school_mgmt\settings.py changed, reloading. 265 
+2025-05-12 21:44:06,108 INFO Watching for file changes with StatReloader 667 
+2025-05-12 21:44:42,443 INFO Watching for file changes with StatReloader 667 
+2025-05-12 21:44:51,020 INFO E:\coding\python\django\Category_API\school_mgmt\school_mgmt\urls.py changed, reloading. 265 
+2025-05-12 21:44:51,635 INFO Watching for file changes with StatReloader 667 
+2025-05-12 21:45:03,533 INFO E:\coding\python\django\Category_API\school_mgmt\school_mgmt\settings.py changed, reloading. 265 
+2025-05-12 21:45:17,239 INFO Watching for file changes with StatReloader 667 
+2025-05-12 21:45:20,589 INFO E:\coding\python\django\Category_API\school_mgmt\school_mgmt\urls.py changed, reloading. 265 
+2025-05-12 21:45:21,269 INFO Watching for file changes with StatReloader 667 
+2025-05-12 21:45:22,714 INFO E:\coding\python\django\Category_API\school_mgmt\school_mgmt\settings.py changed, reloading. 265 
+2025-05-12 21:45:29,938 INFO Watching for file changes with StatReloader 667 
+2025-05-12 21:45:35,525 INFO E:\coding\python\django\Category_API\school_mgmt\school_mgmt\urls.py changed, reloading. 265 
+2025-05-12 21:45:36,113 INFO Watching for file changes with StatReloader 667 
+2025-05-12 21:45:37,404 INFO E:\coding\python\django\Category_API\school_mgmt\school_mgmt\urls.py changed, reloading. 265 
+2025-05-12 21:45:38,021 INFO Watching for file changes with StatReloader 667 
+2025-05-12 21:46:27,079 INFO E:\coding\python\django\Category_API\school_mgmt\school_mgmt\urls.py changed, reloading. 265 
+2025-05-12 21:46:27,727 INFO Watching for file changes with StatReloader 667 
+2025-05-12 21:46:50,856 INFO E:\coding\python\django\Category_API\school_mgmt\core\urls.py changed, reloading. 265 
+2025-05-12 21:46:51,513 INFO Watching for file changes with StatReloader 667 
+2025-05-12 21:46:55,060 INFO E:\coding\python\django\Category_API\school_mgmt\core\urls.py changed, reloading. 265 
+2025-05-12 21:46:55,640 INFO Watching for file changes with StatReloader 667 
+2025-05-12 21:47:24,048 INFO E:\coding\python\django\Category_API\school_mgmt\core\urls.py changed, reloading. 265 
+2025-05-12 21:47:24,647 INFO Watching for file changes with StatReloader 667 
+2025-05-12 21:47:26,964 INFO E:\coding\python\django\Category_API\school_mgmt\core\urls.py changed, reloading. 265 
+2025-05-12 21:47:27,546 INFO Watching for file changes with StatReloader 667 
+2025-05-12 21:47:35,106 INFO E:\coding\python\django\Category_API\school_mgmt\core\urls.py changed, reloading. 265 
+2025-05-12 21:47:35,732 INFO Watching for file changes with StatReloader 667 
+2025-05-12 21:47:42,338 INFO E:\coding\python\django\Category_API\school_mgmt\core\urls.py changed, reloading. 265 
+2025-05-12 21:47:42,909 INFO Watching for file changes with StatReloader 667 
+2025-05-12 21:47:51,627 INFO E:\coding\python\django\Category_API\school_mgmt\core\urls.py changed, reloading. 265 
+2025-05-12 21:47:52,253 INFO Watching for file changes with StatReloader 667 
+2025-05-12 21:47:58,863 INFO E:\coding\python\django\Category_API\school_mgmt\core\urls.py changed, reloading. 265 
+2025-05-12 21:47:59,483 INFO Watching for file changes with StatReloader 667 
+2025-05-12 21:48:06,000 INFO E:\coding\python\django\Category_API\school_mgmt\core\urls.py changed, reloading. 265 
+2025-05-12 21:48:06,574 INFO Watching for file changes with StatReloader 667 
+2025-05-12 21:48:11,103 INFO E:\coding\python\django\Category_API\school_mgmt\core\urls.py changed, reloading. 265 
+2025-05-12 21:48:11,729 INFO Watching for file changes with StatReloader 667 
+2025-05-12 21:48:16,298 INFO E:\coding\python\django\Category_API\school_mgmt\core\urls.py changed, reloading. 265 
+2025-05-12 21:48:16,885 INFO Watching for file changes with StatReloader 667 
+2025-05-12 21:48:22,464 INFO E:\coding\python\django\Category_API\school_mgmt\core\urls.py changed, reloading. 265 
+2025-05-12 21:48:23,055 INFO Watching for file changes with StatReloader 667 
+2025-05-12 21:48:32,728 INFO "GET / HTTP/1.1" 200 2210 213 
+2025-05-12 21:48:32,747 INFO "GET /static/drf-yasg/style.css HTTP/1.1" 304 0 213 
+2025-05-12 21:48:32,750 INFO "GET /static/drf-yasg/swagger-ui-dist/swagger-ui.css HTTP/1.1" 304 0 213 
+2025-05-12 21:48:32,751 INFO "GET /static/drf-yasg/swagger-ui-dist/swagger-ui-bundle.js HTTP/1.1" 304 0 213 
+2025-05-12 21:48:32,753 INFO "GET /static/drf-yasg/swagger-ui-dist/swagger-ui-standalone-preset.js HTTP/1.1" 304 0 213 
+2025-05-12 21:48:32,753 INFO "GET /static/drf-yasg/insQ.min.js HTTP/1.1" 304 0 213 
+2025-05-12 21:48:32,754 INFO "GET /static/drf-yasg/immutable.min.js HTTP/1.1" 304 0 213 
+2025-05-12 21:48:32,756 INFO "GET /static/drf-yasg/swagger-ui-init.js HTTP/1.1" 304 0 213 
+2025-05-12 21:48:33,219 INFO "GET /static/drf-yasg/swagger-ui-dist/favicon-32x32.png HTTP/1.1" 304 0 213 
+2025-05-12 21:48:33,441 INFO "GET /?format=openapi HTTP/1.1" 200 1868 213 
+2025-05-12 21:48:46,130 WARNING Unauthorized: /api/api/token/ 248 
+2025-05-12 21:48:46,130 WARNING "POST /api/api/token/ HTTP/1.1" 401 63 213 
+2025-05-12 21:54:07,334 INFO E:\coding\python\django\Category_API\school_mgmt\school_mgmt\settings.py changed, reloading. 265 
+2025-05-12 21:54:08,020 INFO Watching for file changes with StatReloader 667 
+2025-05-12 21:54:45,117 INFO E:\coding\python\django\Category_API\school_mgmt\school_mgmt\settings.py changed, reloading. 265 
+2025-05-12 21:54:45,726 INFO Watching for file changes with StatReloader 667 
+2025-05-12 21:55:19,888 INFO E:\coding\python\django\Category_API\school_mgmt\school_mgmt\settings.py changed, reloading. 265 
+2025-05-12 21:55:20,557 INFO Watching for file changes with StatReloader 667 
+2025-05-12 21:55:24,078 INFO E:\coding\python\django\Category_API\school_mgmt\school_mgmt\settings.py changed, reloading. 265 
+2025-05-12 21:55:24,674 INFO Watching for file changes with StatReloader 667 
+2025-05-12 21:55:29,248 INFO E:\coding\python\django\Category_API\school_mgmt\school_mgmt\settings.py changed, reloading. 265 
+2025-05-12 21:55:29,871 INFO Watching for file changes with StatReloader 667 
+2025-05-12 21:56:26,818 INFO Watching for file changes with StatReloader 667 
+2025-05-12 21:56:28,761 INFO "GET / HTTP/1.1" 200 2210 213 
+2025-05-12 21:56:29,258 INFO "GET /static/drf-yasg/swagger-ui-dist/swagger-ui.css HTTP/1.1" 200 145206 213 
+2025-05-12 21:56:29,262 INFO "GET /static/drf-yasg/swagger-ui-init.js HTTP/1.1" 200 15480 213 
+2025-05-12 21:56:29,268 INFO "GET /static/drf-yasg/swagger-ui-init.js HTTP/1.1" 200 15480 213 
+2025-05-12 21:56:29,280 INFO "GET /static/drf-yasg/insQ.min.js HTTP/1.1" 200 2093 213 
+2025-05-12 21:56:29,299 INFO "GET /static/drf-yasg/style.css HTTP/1.1" 200 1047 213 
+2025-05-12 21:56:29,302 INFO "GET /static/drf-yasg/immutable.min.js HTTP/1.1" 200 56904 213 
+2025-05-12 21:56:29,303 INFO "GET /static/drf-yasg/swagger-ui-dist/swagger-ui-bundle.js HTTP/1.1" 200 1046583 213 
+2025-05-12 21:56:29,306 INFO "GET /static/drf-yasg/swagger-ui-dist/swagger-ui-standalone-preset.js HTTP/1.1" 200 322863 213 
+2025-05-12 21:56:29,318 INFO "GET /static/drf-yasg/insQ.min.js HTTP/1.1" 200 2093 213 
+2025-05-12 21:56:29,319 INFO "GET /static/drf-yasg/immutable.min.js HTTP/1.1" 200 56904 213 
+2025-05-12 21:56:29,338 INFO "GET /static/drf-yasg/swagger-ui-dist/swagger-ui-standalone-preset.js HTTP/1.1" 200 322863 213 
+2025-05-12 21:56:29,340 INFO "GET /static/drf-yasg/swagger-ui-dist/swagger-ui-bundle.js HTTP/1.1" 200 1046583 213 
+2025-05-12 21:56:29,711 INFO "GET /static/drf-yasg/swagger-ui-dist/favicon-32x32.png HTTP/1.1" 200 628 213 
+2025-05-12 21:56:30,514 INFO "GET /?format=openapi HTTP/1.1" 200 1868 213 
+2025-05-12 21:56:32,498 INFO "GET /admin HTTP/1.1" 301 0 213 
+2025-05-12 21:56:32,507 INFO "GET /admin/ HTTP/1.1" 302 0 213 
+2025-05-12 21:56:32,538 INFO "GET /admin/login/?next=/admin/ HTTP/1.1" 200 3040 213 
+2025-05-12 21:56:32,564 INFO "GET /static/vendor/fontawesome-free/css/all.min.css HTTP/1.1" 200 103009 213 
+2025-05-12 21:56:32,572 INFO "GET /static/vendor/adminlte/img/AdminLTELogo.png HTTP/1.1" 200 2637 213 
+2025-05-12 21:56:32,575 INFO "GET /static/jazzmin/css/main.css HTTP/1.1" 200 16969 213 
+2025-05-12 21:56:32,579 INFO "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 285314 213 
+2025-05-12 21:56:32,600 INFO "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 285314 213 
+2025-05-12 21:56:32,607 INFO "GET /static/vendor/adminlte/css/adminlte.min.css HTTP/1.1" 200 1382975 213 
+2025-05-12 21:56:32,720 INFO "GET /static/vendor/adminlte/js/adminlte.min.js HTTP/1.1" 200 44244 213 
+2025-05-12 21:56:32,721 INFO "GET /static/vendor/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 62440 213 
+2025-05-12 21:56:32,774 INFO "GET /static/vendor/adminlte/js/adminlte.min.js HTTP/1.1" 200 44244 213 
+2025-05-12 21:56:32,775 INFO "GET /static/vendor/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 62440 213 
+2025-05-12 21:56:33,038 INFO "GET /static/vendor/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 200 156400 213 
+2025-05-12 21:56:33,051 WARNING "GET /static/images/favicon.ico HTTP/1.1" 404 1868 213 
+2025-05-12 21:56:33,095 WARNING "GET /static/images/favicon.ico HTTP/1.1" 404 1868 213 
+2025-05-12 21:56:33,409 WARNING "GET /static/images/favicon.ico HTTP/1.1" 404 1868 213 
+2025-05-12 21:56:42,390 INFO "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0 213 
+2025-05-12 21:56:42,467 INFO "GET /admin/ HTTP/1.1" 200 11489 213 
+2025-05-12 21:56:42,491 INFO "GET /static/jazzmin/js/main.js HTTP/1.1" 200 2391 213 
+2025-05-12 21:56:42,510 INFO "GET /static/jazzmin/js/main.js HTTP/1.1" 200 2391 213 
+2025-05-12 21:56:42,619 WARNING "GET /static/images/favicon.ico HTTP/1.1" 404 1868 213 
+2025-05-12 21:56:42,629 INFO "GET /static/vendor/fontawesome-free/webfonts/fa-regular-400.woff2 HTTP/1.1" 200 25392 213 
+2025-05-12 21:56:42,681 WARNING "GET /static/images/favicon.ico HTTP/1.1" 404 1868 213 
+2025-05-12 21:57:02,910 INFO E:\coding\python\django\Category_API\school_mgmt\school_mgmt\settings.py changed, reloading. 265 
+2025-05-12 21:57:03,344 INFO E:\coding\python\django\Category_API\school_mgmt\school_mgmt\settings.py changed, reloading. 265 
+2025-05-12 21:57:03,559 INFO Watching for file changes with StatReloader 667 
+2025-05-12 21:57:03,965 INFO Watching for file changes with StatReloader 667 
+2025-05-12 21:57:10,154 INFO "GET /admin/ HTTP/1.1" 200 11541 213 
+2025-05-12 21:57:10,169 INFO "GET /static/vendor/fontawesome-free/css/all.min.css HTTP/1.1" 304 0 213 
+2025-05-12 21:57:10,175 INFO "GET /static/vendor/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 0 213 
+2025-05-12 21:57:10,176 INFO "GET /static/jazzmin/css/main.css HTTP/1.1" 304 0 213 
+2025-05-12 21:57:10,176 INFO "GET /static/vendor/adminlte/img/AdminLTELogo.png HTTP/1.1" 304 0 213 
+2025-05-12 21:57:10,176 INFO "GET /static/vendor/adminlte/css/adminlte.min.css HTTP/1.1" 304 0 213 
+2025-05-12 21:57:10,184 INFO "GET /static/vendor/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 0 213 
+2025-05-12 21:57:10,355 INFO "GET /static/vendor/adminlte/js/adminlte.min.js HTTP/1.1" 304 0 213 
+2025-05-12 21:57:10,357 INFO "GET /static/jazzmin/js/main.js HTTP/1.1" 304 0 213 
+2025-05-12 21:57:10,400 INFO "GET /static/vendor/adminlte/js/adminlte.min.js HTTP/1.1" 304 0 213 
+2025-05-12 21:57:10,402 INFO "GET /static/jazzmin/js/main.js HTTP/1.1" 304 0 213 
+2025-05-12 21:57:12,559 INFO "GET /admin/auth/group/ HTTP/1.1" 200 11745 213 
+2025-05-12 21:57:12,631 INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3342 213 
+2025-05-12 21:57:12,642 INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3342 213 
+2025-05-12 21:57:12,995 INFO "GET /static/vendor/select2/css/select2.min.css HTTP/1.1" 200 16264 213 
+2025-05-12 21:57:12,998 INFO "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531 213 
+2025-05-12 21:57:13,003 INFO "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531 213 
+2025-05-12 21:57:13,006 INFO "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 325171 213 
+2025-05-12 21:57:13,011 INFO "GET /static/vendor/select2/js/select2.min.js HTTP/1.1" 200 73170 213 
+2025-05-12 21:57:13,014 INFO "GET /static/jazzmin/js/change_list.js HTTP/1.1" 200 2252 213 
+2025-05-12 21:57:13,025 INFO "GET /static/jazzmin/js/change_list.js HTTP/1.1" 200 2252 213 
+2025-05-12 21:57:13,027 INFO "GET /static/vendor/select2/js/select2.min.js HTTP/1.1" 200 73170 213 
+2025-05-12 21:57:13,028 INFO "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347 213 
+2025-05-12 21:57:13,030 INFO "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 325171 213 
+2025-05-12 21:57:13,032 INFO "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 9777 213 
+2025-05-12 21:57:13,037 INFO "GET /static/admin/js/actions.js HTTP/1.1" 200 8076 213 
+2025-05-12 21:57:13,038 INFO "GET /static/admin/js/core.js HTTP/1.1" 200 6208 213 
+2025-05-12 21:57:13,043 INFO "GET /static/admin/js/urlify.js HTTP/1.1" 200 7887 213 
+2025-05-12 21:57:13,623 INFO "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347 213 
+2025-05-12 21:57:13,623 INFO "GET /static/admin/js/actions.js HTTP/1.1" 200 8076 213 
+2025-05-12 21:57:13,624 INFO "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 9777 213 
+2025-05-12 21:57:13,625 INFO "GET /static/admin/js/core.js HTTP/1.1" 200 6208 213 
+2025-05-12 21:57:13,625 INFO "GET /static/admin/js/urlify.js HTTP/1.1" 200 7887 213 
+2025-05-12 21:57:17,359 INFO "GET /admin/ HTTP/1.1" 200 11541 213 
+2025-05-12 21:57:34,257 INFO "POST /api/api/token/ HTTP/1.1" 200 483 213 
+2025-05-12 21:57:45,130 INFO "GET / HTTP/1.1" 200 2210 213 
+2025-05-12 21:57:45,150 INFO "GET /static/drf-yasg/style.css HTTP/1.1" 304 0 213 
+2025-05-12 21:57:45,157 INFO "GET /static/drf-yasg/swagger-ui-dist/swagger-ui-bundle.js HTTP/1.1" 304 0 213 
+2025-05-12 21:57:45,157 INFO "GET /static/drf-yasg/swagger-ui-dist/swagger-ui.css HTTP/1.1" 304 0 213 
+2025-05-12 21:57:45,160 INFO "GET /static/drf-yasg/insQ.min.js HTTP/1.1" 304 0 213 
+2025-05-12 21:57:45,160 INFO "GET /static/drf-yasg/swagger-ui-dist/swagger-ui-standalone-preset.js HTTP/1.1" 304 0 213 
+2025-05-12 21:57:45,163 INFO "GET /static/drf-yasg/immutable.min.js HTTP/1.1" 304 0 213 
+2025-05-12 21:57:45,163 INFO "GET /static/drf-yasg/swagger-ui-init.js HTTP/1.1" 304 0 213 
+2025-05-12 21:57:45,743 INFO "GET /static/drf-yasg/swagger-ui-dist/favicon-32x32.png HTTP/1.1" 304 0 213 
+2025-05-12 21:57:45,971 INFO "GET /?format=openapi HTTP/1.1" 200 1868 213 
+2025-05-12 21:59:12,824 INFO E:\coding\python\django\Category_API\school_mgmt\core\models.py changed, reloading. 265 
+2025-05-12 21:59:13,193 INFO E:\coding\python\django\Category_API\school_mgmt\core\models.py changed, reloading. 265 
+2025-05-12 21:59:13,521 INFO Watching for file changes with StatReloader 667 
+2025-05-12 21:59:13,880 INFO Watching for file changes with StatReloader 667 
+2025-05-12 21:59:17,166 INFO E:\coding\python\django\Category_API\school_mgmt\core\models.py changed, reloading. 265 
+2025-05-12 21:59:17,405 INFO E:\coding\python\django\Category_API\school_mgmt\core\models.py changed, reloading. 265 
+2025-05-12 21:59:17,866 INFO Watching for file changes with StatReloader 667 
+2025-05-12 21:59:18,092 INFO Watching for file changes with StatReloader 667 
+2025-05-12 21:59:28,821 INFO E:\coding\python\django\Category_API\school_mgmt\core\models.py changed, reloading. 265 
+2025-05-12 21:59:28,965 INFO E:\coding\python\django\Category_API\school_mgmt\core\models.py changed, reloading. 265 
+2025-05-12 21:59:29,504 INFO Watching for file changes with StatReloader 667 
+2025-05-12 21:59:29,637 INFO Watching for file changes with StatReloader 667 
+2025-05-12 22:02:15,476 INFO E:\coding\python\django\Category_API\school_mgmt\core\models.py changed, reloading. 265 
+2025-05-12 22:02:15,477 INFO E:\coding\python\django\Category_API\school_mgmt\core\models.py changed, reloading. 265 
+2025-05-12 22:02:16,210 INFO Watching for file changes with StatReloader 667 
+2025-05-12 22:02:16,210 INFO Watching for file changes with StatReloader 667 
+2025-05-12 22:02:36,727 INFO E:\coding\python\django\Category_API\school_mgmt\core\models.py changed, reloading. 265 
+2025-05-12 22:02:36,728 INFO E:\coding\python\django\Category_API\school_mgmt\core\models.py changed, reloading. 265 
+2025-05-12 22:02:37,397 INFO Watching for file changes with StatReloader 667 
+2025-05-12 22:02:40,985 INFO E:\coding\python\django\Category_API\school_mgmt\core\models.py changed, reloading. 265 
+2025-05-12 22:02:40,989 INFO E:\coding\python\django\Category_API\school_mgmt\core\models.py changed, reloading. 265 
+2025-05-12 22:02:41,660 INFO Watching for file changes with StatReloader 667 
+2025-05-12 22:02:44,213 INFO E:\coding\python\django\Category_API\school_mgmt\core\models.py changed, reloading. 265 
+2025-05-12 22:02:44,217 INFO E:\coding\python\django\Category_API\school_mgmt\core\models.py changed, reloading. 265 
+2025-05-12 22:02:44,862 INFO Watching for file changes with StatReloader 667 
+2025-05-12 22:02:44,862 INFO Watching for file changes with StatReloader 667 
+2025-05-12 22:02:50,559 INFO E:\coding\python\django\Category_API\school_mgmt\core\models.py changed, reloading. 265 
+2025-05-12 22:02:50,567 INFO E:\coding\python\django\Category_API\school_mgmt\core\models.py changed, reloading. 265 
+2025-05-12 22:02:51,181 INFO Watching for file changes with StatReloader 667 
+2025-05-12 22:02:51,181 INFO Watching for file changes with StatReloader 667 
+2025-05-12 22:02:52,706 INFO E:\coding\python\django\Category_API\school_mgmt\core\models.py changed, reloading. 265 
+2025-05-12 22:02:52,708 INFO E:\coding\python\django\Category_API\school_mgmt\core\models.py changed, reloading. 265 
+2025-05-12 22:02:53,395 INFO Watching for file changes with StatReloader 667 
+2025-05-12 22:02:53,395 INFO Watching for file changes with StatReloader 667 
+2025-05-12 22:02:55,987 INFO E:\coding\python\django\Category_API\school_mgmt\core\models.py changed, reloading. 265 
+2025-05-12 22:02:55,992 INFO E:\coding\python\django\Category_API\school_mgmt\core\models.py changed, reloading. 265 
+2025-05-12 22:02:56,635 INFO Watching for file changes with StatReloader 667 
+2025-05-12 22:02:56,635 INFO Watching for file changes with StatReloader 667 
+2025-05-12 22:02:58,177 INFO E:\coding\python\django\Category_API\school_mgmt\core\models.py changed, reloading. 265 
+2025-05-12 22:02:58,180 INFO E:\coding\python\django\Category_API\school_mgmt\core\models.py changed, reloading. 265 
+2025-05-12 22:02:58,839 INFO Watching for file changes with StatReloader 667 
+2025-05-12 22:02:58,839 INFO Watching for file changes with StatReloader 667 
+2025-05-12 22:03:00,364 INFO E:\coding\python\django\Category_API\school_mgmt\core\models.py changed, reloading. 265 
+2025-05-12 22:03:00,365 INFO E:\coding\python\django\Category_API\school_mgmt\core\models.py changed, reloading. 265 
+2025-05-12 22:03:01,105 INFO Watching for file changes with StatReloader 667 
+2025-05-12 22:03:01,106 INFO Watching for file changes with StatReloader 667 
+2025-05-12 22:03:53,385 INFO E:\coding\python\django\Category_API\school_mgmt\core\models.py changed, reloading. 265 
+2025-05-12 22:03:53,389 INFO E:\coding\python\django\Category_API\school_mgmt\core\models.py changed, reloading. 265 
+2025-05-12 22:03:54,028 INFO Watching for file changes with StatReloader 667 
+2025-05-12 22:03:54,028 INFO Watching for file changes with StatReloader 667 
+2025-05-12 22:04:07,083 INFO E:\coding\python\django\Category_API\school_mgmt\core\models.py changed, reloading. 265 
+2025-05-12 22:04:07,087 INFO E:\coding\python\django\Category_API\school_mgmt\core\models.py changed, reloading. 265 
+2025-05-12 22:04:07,674 INFO Watching for file changes with StatReloader 667 
+2025-05-12 22:04:07,674 INFO Watching for file changes with StatReloader 667 
+2025-05-12 22:04:09,188 INFO E:\coding\python\django\Category_API\school_mgmt\core\models.py changed, reloading. 265 
+2025-05-12 22:04:09,192 INFO E:\coding\python\django\Category_API\school_mgmt\core\models.py changed, reloading. 265 
+2025-05-12 22:04:09,796 INFO Watching for file changes with StatReloader 667 
+2025-05-12 22:04:09,796 INFO Watching for file changes with StatReloader 667 
+2025-05-12 22:04:12,187 INFO E:\coding\python\django\Category_API\school_mgmt\core\models.py changed, reloading. 265 
+2025-05-12 22:04:12,191 INFO E:\coding\python\django\Category_API\school_mgmt\core\models.py changed, reloading. 265 
+2025-05-12 22:04:12,863 INFO Watching for file changes with StatReloader 667 
+2025-05-12 22:04:26,979 INFO E:\coding\python\django\Category_API\school_mgmt\core\models.py changed, reloading. 265 
+2025-05-12 22:04:26,987 INFO E:\coding\python\django\Category_API\school_mgmt\core\models.py changed, reloading. 265 
+2025-05-12 22:04:27,591 INFO Watching for file changes with StatReloader 667 
+2025-05-12 22:04:27,591 INFO Watching for file changes with StatReloader 667 
+2025-05-12 22:04:47,929 INFO E:\coding\python\django\Category_API\school_mgmt\core\models.py changed, reloading. 265 
+2025-05-12 22:04:47,934 INFO E:\coding\python\django\Category_API\school_mgmt\core\models.py changed, reloading. 265 
+2025-05-12 22:04:48,561 INFO Watching for file changes with StatReloader 667 
