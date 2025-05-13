@@ -231,7 +231,16 @@ Finally, record scores for each exam based on different exam categories.
 - **Endpoint:** `POST /scores/`  
 - **Purpose:** Input category-wise marks, remarks, and evaluator for each exam.
 
----
+
+
+
+## 🔹 5. View Overall Exam detail with Student attend can use this enpoint to get the data 
+Finally, record scores for each exam based on different exam categories.
+
+- **Endpoint:** `POST /exams/{id}/`-Retrieve a specific exam record by ID with the all marks attained with total marks easily.`  
+- **Purpose:** Get Student examantion detail eaily to fetch and show then.
+
+
 
 
 
