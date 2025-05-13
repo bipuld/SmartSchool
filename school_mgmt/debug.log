@@ -576,3 +576,89 @@ django.core.exceptions.ImproperlyConfigured: Field name `total_full_marks` is no
 2025-05-13 14:25:44,307 INFO Watching for file changes with StatReloader 667 
 2025-05-13 14:25:45,834 INFO E:\coding\python\django\Category_API\school_mgmt\core\serializers.py changed, reloading. 265 
 2025-05-13 14:25:46,480 INFO Watching for file changes with StatReloader 667 
+2025-05-13 14:26:21,220 INFO "GET /admin/core/exam/ HTTP/1.1" 200 24371 213 
+2025-05-13 14:26:21,244 INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3342 213 
+2025-05-13 14:26:24,910 INFO "GET /admin/core/student/ HTTP/1.1" 200 22745 213 
+2025-05-13 14:26:24,932 INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3342 213 
+2025-05-13 14:26:26,598 INFO "GET /admin/core/student/add/ HTTP/1.1" 200 26467 213 
+2025-05-13 14:26:26,621 INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3342 213 
+2025-05-13 14:27:10,073 INFO "GET / HTTP/1.1" 200 2210 213 
+2025-05-13 14:27:10,222 INFO "GET /?format=openapi HTTP/1.1" 200 24130 213 
+2025-05-13 14:28:09,964 INFO "GET /?format=openapi HTTP/1.1" 200 24130 213 
+2025-05-13 14:28:14,309 INFO "GET / HTTP/1.1" 200 2210 213 
+2025-05-13 14:28:14,431 INFO "GET /?format=openapi HTTP/1.1" 200 24130 213 
+2025-05-13 14:28:16,216 INFO "GET /admin/ HTTP/1.1" 200 33001 213 
+2025-05-13 14:28:19,011 INFO "GET /admin/ HTTP/1.1" 200 33001 213 
+2025-05-13 14:28:47,087 INFO "GET / HTTP/1.1" 200 2210 213 
+2025-05-13 14:28:47,205 INFO "GET /?format=openapi HTTP/1.1" 200 24130 213 
+2025-05-13 14:28:48,064 INFO "GET /admin/ HTTP/1.1" 200 33001 213 
+2025-05-13 14:28:50,865 INFO "POST /admin/logout/ HTTP/1.1" 200 2127 213 
+2025-05-13 14:28:51,796 INFO "GET /admin/ HTTP/1.1" 302 0 213 
+2025-05-13 14:28:51,803 INFO "GET /admin/login/?next=/admin/ HTTP/1.1" 200 3073 213 
+2025-05-13 14:28:58,136 INFO "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0 213 
+2025-05-13 14:28:58,152 INFO "GET /admin/ HTTP/1.1" 200 33001 213 
+2025-05-13 14:29:06,163 INFO "GET /admin/core/student/ HTTP/1.1" 200 22745 213 
+2025-05-13 14:29:06,190 INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3342 213 
+2025-05-13 14:29:08,584 INFO "GET /admin/core/student/ HTTP/1.1" 200 22745 213 
+2025-05-13 14:29:08,603 INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3342 213 
+2025-05-13 14:29:10,356 INFO "GET /admin/core/ HTTP/1.1" 200 26983 213 
+2025-05-13 14:29:13,371 INFO "GET /admin/core/subject/ HTTP/1.1" 200 20842 213 
+2025-05-13 14:29:13,397 INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3342 213 
+2025-05-13 14:29:15,539 INFO "GET /admin/core/ HTTP/1.1" 200 26983 213 
+2025-05-13 14:29:21,536 INFO "GET /admin/core/examcategory/ HTTP/1.1" 200 25160 213 
+2025-05-13 14:29:21,558 INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3342 213 
+2025-05-13 14:29:33,794 INFO "GET /admin/core/ HTTP/1.1" 200 26983 213 
+2025-05-13 14:29:36,915 INFO "GET /admin/core/exam/ HTTP/1.1" 200 24371 213 
+2025-05-13 14:29:36,938 INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3342 213 
+2025-05-13 14:29:41,418 INFO "GET /admin/core/ HTTP/1.1" 200 26983 213 
+2025-05-13 14:29:42,609 INFO "GET /admin/core/score/ HTTP/1.1" 200 26125 213 
+2025-05-13 14:29:42,641 INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3342 213 
+2025-05-13 14:30:01,513 INFO "POST /admin/logout/ HTTP/1.1" 200 2127 213 
+2025-05-13 14:30:02,937 INFO "GET /admin/ HTTP/1.1" 302 0 213 
+2025-05-13 14:30:02,943 INFO "GET /admin/login/?next=/admin/ HTTP/1.1" 200 3073 213 
+2025-05-13 14:30:12,562 INFO "GET / HTTP/1.1" 200 2210 213 
+2025-05-13 14:30:12,706 INFO "GET /?format=openapi HTTP/1.1" 200 24130 213 
+2025-05-13 14:38:06,993 INFO "POST /api/students/ HTTP/1.1" 201 322 213 
+2025-05-13 14:38:18,362 INFO "GET /api/students/ HTTP/1.1" 200 635 213 
+2025-05-13 14:38:28,320 INFO "GET /api/subjects/ HTTP/1.1" 200 154 213 
+2025-05-13 14:39:15,025 INFO "GET /api/students/ HTTP/1.1" 200 635 213 
+2025-05-13 14:40:13,978 INFO "GET /api/exam-categories/ HTTP/1.1" 200 467 213 
+2025-05-13 14:40:33,654 INFO "GET /api/students/ HTTP/1.1" 200 635 213 
+2025-05-13 14:40:51,147 INFO "GET /api/exam-categories/ HTTP/1.1" 200 467 213 
+2025-05-13 14:42:14,801 INFO "GET /api/subjects/ HTTP/1.1" 200 154 213 
+2025-05-13 14:42:38,900 INFO "POST /api/exams/ HTTP/1.1" 201 106 213 
+2025-05-13 14:43:01,260 INFO "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0 213 
+2025-05-13 14:43:01,278 INFO "GET /admin/ HTTP/1.1" 200 33001 213 
+2025-05-13 14:43:01,305 INFO "GET /static/vendor/fontawesome-free/css/all.min.css HTTP/1.1" 304 0 213 
+2025-05-13 14:43:01,306 INFO "GET /static/vendor/adminlte/css/adminlte.min.css HTTP/1.1" 304 0 213 
+2025-05-13 14:43:01,307 INFO "GET /static/jazzmin/css/main.css HTTP/1.1" 304 0 213 
+2025-05-13 14:43:01,310 INFO "GET /static/vendor/adminlte/img/AdminLTELogo.png HTTP/1.1" 304 0 213 
+2025-05-13 14:43:01,310 INFO "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0 213 
+2025-05-13 14:43:01,312 INFO "GET /static/vendor/adminlte/js/adminlte.min.js HTTP/1.1" 304 0 213 
+2025-05-13 14:43:01,313 INFO "GET /static/vendor/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 0 213 
+2025-05-13 14:43:01,315 INFO "GET /static/jazzmin/js/main.js HTTP/1.1" 304 0 213 
+2025-05-13 14:43:01,369 INFO "GET /static/vendor/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 304 0 213 
+2025-05-13 14:43:01,370 INFO "GET /static/vendor/fontawesome-free/webfonts/fa-regular-400.woff2 HTTP/1.1" 304 0 213 
+2025-05-13 14:43:06,265 INFO "GET /admin/core/student/ HTTP/1.1" 200 23545 213 
+2025-05-13 14:43:06,293 INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3342 213 
+2025-05-13 14:43:07,783 INFO "GET /admin/ HTTP/1.1" 200 33001 213 
+2025-05-13 14:43:08,876 INFO "GET /admin/core/subject/ HTTP/1.1" 200 20842 213 
+2025-05-13 14:43:08,901 INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3342 213 
+2025-05-13 14:43:10,899 INFO "GET /admin/ HTTP/1.1" 200 33001 213 
+2025-05-13 14:43:12,179 INFO "GET /admin/core/score/ HTTP/1.1" 200 26125 213 
+2025-05-13 14:43:12,232 INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3342 213 
+2025-05-13 14:43:17,032 INFO "GET /admin/core/score/add/ HTTP/1.1" 200 23207 213 
+2025-05-13 14:43:17,052 INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3342 213 
+2025-05-13 14:43:18,779 INFO "GET /admin/core/exam/?_to_field=id&_popup=1 HTTP/1.1" 200 12040 213 
+2025-05-13 14:43:38,002 INFO "GET /api/exams/ HTTP/1.1" 200 260 213 
+2025-05-13 14:43:55,489 INFO "GET /api/exams/ HTTP/1.1" 200 260 213 
+2025-05-13 14:44:48,956 INFO "POST /api/scores/ HTTP/1.1" 201 240 213 
+2025-05-13 14:45:00,476 INFO "GET /api/exams/2/ HTTP/1.1" 200 655 213 
+2025-05-13 14:46:03,753 INFO E:\coding\python\django\Category_API\school_mgmt\core\models.py changed, reloading. 265 
+2025-05-13 14:46:04,473 INFO Watching for file changes with StatReloader 667 
+2025-05-13 14:46:06,092 INFO E:\coding\python\django\Category_API\school_mgmt\core\models.py changed, reloading. 265 
+2025-05-13 14:46:06,867 INFO Watching for file changes with StatReloader 667 
+2025-05-13 14:47:43,545 INFO E:\coding\python\django\Category_API\school_mgmt\core\models.py changed, reloading. 265 
+2025-05-13 14:47:44,239 INFO Watching for file changes with StatReloader 667 
+2025-05-13 14:47:51,015 INFO E:\coding\python\django\Category_API\school_mgmt\core\models.py changed, reloading. 265 
+2025-05-13 14:47:51,745 INFO Watching for file changes with StatReloader 667 

@@ -89,6 +89,8 @@ class Score(models.Model):
             raise ValidationError("Marks cannot be negative.")
         super().save(*args, **kwargs)
 
+
+
     def save(self,*args,**kwargs):
         self.clean()
         super().save(*args,**kwargs)
