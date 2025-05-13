@@ -96,11 +96,11 @@ DATABASES = {
 
 # DATABASES = {
 #     'default': {
-#         'ENGINE': 'django.db.backends.mysql', 
-#         'NAME': 'DB_NAME',
-#         'USER': 'DB_USER',
-#         'PASSWORD': 'DB_PASSWORD',
-#         'HOST': 'localhost',   
+#         'ENGINE': 'django.db.backends.mysql',
+#         'NAME': 'bipuldawadi11$SmartSchool_db',
+#         'USER': 'bipuldawadi11',
+#         'PASSWORD': 'root1234',
+#         'HOST': 'bipuldawadi11.mysql.pythonanywhere-services.com',
 #         'PORT': '3306',
 #     }
 # }
