@@ -1,0 +1,1 @@
+E:\coding\python\django\Category_API\env\Scripts\activate.bat
