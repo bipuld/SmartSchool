@@ -1,5 +1,3 @@
-
-# Register your models here.
 from django.contrib import admin
 from django.db.models import Sum
 from django.urls import path
@@ -11,13 +9,13 @@ from .models import Student, Subject, ExamCategory, Exam, Score
 class StudentAdmin(admin.ModelAdmin):
     list_display = ('name', 'roll_number', 'email', 'phone_number', 'is_active')
     list_filter = ('is_active', )
-    search_fields = ('name', 'roll_number', 'email')
+    search_fields = ('name', 'roll_number', 'email','address')
     list_editable = ('is_active',)
     date_hierarchy = 'created_at'
     ordering = ('name',)
     fieldsets = (
         (None, {'fields': ('name', 'roll_number', 'email')}),
-        ('Contact Info', {'fields': ('phone_number', 'date_of_birth')}),
+        ('Contact Info', {'fields': ('phone_number', 'address','date_of_birth')}),
         ('Academic Info', {'fields': ['is_active']}), 
         ('Timestamps', {'fields': ('created_at', 'updated_at'), 'classes': ('collapse',)}),
     )

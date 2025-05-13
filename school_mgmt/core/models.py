@@ -2,14 +2,12 @@ from django.db import models
 from django.core.exceptions import ValidationError
 
 
-
-
-
 class Student(models.Model):
     name = models.CharField(max_length=100)
     roll_number = models.CharField(max_length=20, unique=True)
     email = models.EmailField(blank=True, null=True)
     phone_number = models.CharField(max_length=15, blank=True, null=True)
+    address=models.CharField(max_length=15, blank=True, null=True)
     date_of_birth = models.DateField(blank=True, null=True)
     created_at = models.DateTimeField(auto_now_add=True)
     updated_at = models.DateTimeField(auto_now=True)
@@ -83,9 +81,18 @@ class Score(models.Model):
         return f"{self.exam} - {self.category} - {self.marks}"
 
     def save(self, *args, **kwargs):
+        from django.utils import timezone
+        max_marks = self.exam.total_marks * (self.category.weightage / 100)
+        if self.marks > max_marks:
+            raise ValidationError(f"Marks cannot exceed the maximum allowed ({max_marks}) for this category.")
         if self.marks < 0:
             raise ValidationError("Marks cannot be negative.")
         super().save(*args, **kwargs)
 
+    def save(self,*args,**kwargs):
+        self.clean()
+        super().save(*args,**kwargs)
+
     class Meta:
         ordering = ['exam', 'category']
+        unique_together = ('exam', 'category')

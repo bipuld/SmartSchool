@@ -6,9 +6,10 @@ from drf_yasg import openapi
 from drf_yasg.utils import swagger_auto_schema
 from .models import Student, Subject, ExamCategory, Exam, Score
 from .serializers import *
+from rest_framework.response import Response
+from rest_framework import status
 
-
-
+from rest_framework.decorators import APIView
 from rest_framework import viewsets, filters
 from rest_framework.permissions import AllowAny
 from django_filters.rest_framework import DjangoFilterBackend
@@ -28,7 +29,7 @@ class StudentViewSet(viewsets.ModelViewSet):
     permission_classes = [AllowAny]
     filter_backends = [DjangoFilterBackend, filters.SearchFilter, filters.OrderingFilter]
     filterset_fields = ['roll_number', 'email', 'is_active']
-    search_fields = ['name', 'roll_number', 'email', 'phone_number']
+    search_fields = ['name', 'roll_number', 'email', 'phone_number','address']
     ordering_fields = ['name', 'roll_number', 'created_at']
     ordering = ['name']
 
@@ -50,7 +51,7 @@ class StudentViewSet(viewsets.ModelViewSet):
                 'is_active', openapi.IN_QUERY, description="Filter by active status", type=openapi.TYPE_BOOLEAN
             ),
             openapi.Parameter(
-                'search', openapi.IN_QUERY, description="Search by name, roll_number, email, or phone_number", type=openapi.TYPE_STRING
+                'search', openapi.IN_QUERY, description="Search by name, roll_number, email,  address or phone_number", type=openapi.TYPE_STRING
             ),
             openapi.Parameter(
                 'ordering', openapi.IN_QUERY, description="Order by name, roll_number, or created_at (add - prefix to get the data in descending format)", type=openapi.TYPE_STRING
@@ -158,8 +159,16 @@ class ExamViewSet(viewsets.ModelViewSet):
     ordering_fields = ['date', 'total_marks']
     ordering = ['-date']
 
+
+  
     def get_queryset(self):
         return Exam.objects.all().select_related('student', 'subject')
+    def get_serializer_class(self):
+        if self.action == 'retrieve':
+            return ExamDetailSerializer
+        return super().get_serializer_class()
+    
+
     
     @swagger_auto_schema(
         operation_description="Retrieve a list of Exams with optional filtering, searching, ordering, and pagination.",
@@ -271,3 +280,4 @@ class ScoreViewSet(viewsets.ModelViewSet):
     )
     def list(self, request, *args, **kwargs):
         return super().list(request, *args, **kwargs)
+
