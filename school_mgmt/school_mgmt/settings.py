@@ -94,16 +94,7 @@ DATABASES = {
     }
 }
 
-# DATABASES = {
-#     'default': {
-#         'ENGINE': 'django.db.backends.mysql',
-#         'NAME': 'bipuldawadi11$SmartSchool_db',
-#         'USER': 'bipuldawadi11',
-#         'PASSWORD': 'root1234',
-#         'HOST': 'bipuldawadi11.mysql.pythonanywhere-services.com',
-#         'PORT': '3306',
-#     }
-# }
+
 REST_FRAMEWORK = {
     'DEFAULT_SCHEMA_CLASS': 'drf_spectacular.openapi.AutoSchema',
 
