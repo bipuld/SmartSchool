@@ -31,3 +31,9 @@
 2025-05-13 17:47:24,277 INFO "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 285314 213 
 2025-05-13 17:47:24,285 INFO "GET /static/vendor/adminlte/css/adminlte.min.css HTTP/1.1" 200 1382975 213 
 2025-05-13 17:47:24,761 INFO "GET /static/vendor/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 200 156400 213 
+2025-05-13 18:06:23,544 INFO E:\coding\python\django\Category_API\school_mgmt\school_mgmt\settings.py changed, reloading. 265 
+2025-05-13 18:06:24,172 INFO Watching for file changes with StatReloader 667 
+2025-05-13 18:06:27,561 INFO E:\coding\python\django\Category_API\school_mgmt\school_mgmt\settings.py changed, reloading. 265 
+2025-05-13 18:06:28,125 INFO Watching for file changes with StatReloader 667 
+2025-05-13 18:06:29,476 INFO E:\coding\python\django\Category_API\school_mgmt\school_mgmt\settings.py changed, reloading. 265 
+2025-05-13 18:06:30,103 INFO Watching for file changes with StatReloader 667 

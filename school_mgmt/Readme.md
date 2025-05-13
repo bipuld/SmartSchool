@@ -4,7 +4,8 @@ The SmartExam System is a web-based API create in Djnago — a high-level Python
 Backend: Django
 API: Django REST Framework
 API Documenation : Swagger API 
-Database: Sqlite (for localhost development)
+Database: Sqlite (for localhost development) 
+Database: MySql (for Production development) 
 
 
 
