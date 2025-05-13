@@ -70,9 +70,11 @@ and see all that data
 - **Swagger UI:** `GET /` - Access API documentation.
 
 
-### JWT Token Management
-- **Token Obtain:** `POST api/token/` - Get the Token.
-- **Token Refersh :** `POST api/token/refresh/` - Refresh the JWT access token.
+#### User Authentication
+- **Register:** `POST account/register/` - Register a new user.
+- **Login:** `POST account/login/` - Authenticate user and retrieve JWT tokens.
+- **Logout:** `POST account/logout/` - Revoke tokens and log out.
+Note: This User is created by Abstarct user which is custom user and the login will be email and password of register user 
 
 
 ### Api Endpoints

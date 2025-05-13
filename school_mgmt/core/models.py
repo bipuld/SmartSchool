@@ -1,6 +1,10 @@
 from django.db import models
 from django.core.exceptions import ValidationError
 
+
+
+
+
 class Student(models.Model):
     name = models.CharField(max_length=100)
     roll_number = models.CharField(max_length=20, unique=True)
