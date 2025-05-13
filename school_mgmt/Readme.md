@@ -187,6 +187,50 @@ api/scores/?search=Project
 
 
 
+# 📘 SmartSchoolAPI System API
+
+This API allows you to manage students, subjects, internal exam categories, and score records in a school environment.
+
+## 🔹 1. Create Student
+Start by registering students in the system.
+
+- **Endpoint:** `POST /students/`  
+- **Purpose:** Save student details (name, email, roll number, etc.)  
+- **Then:** You can list, retrieve, update, or delete them using the corresponding endpoints.
+
+---
+
+## 🔹 2. Create Subject
+After students are added, define the subjects they will be examined on.
+
+- **Endpoint:** `POST /subjects/`  
+- **Purpose:** Create subjects with details like code, name, and credits.
+
+---
+
+## 🔹 3. Create Exam Categories
+Set up various internal assessment types (e.g., Oral, Practical, ECA).
+
+- **Endpoint:** `POST /exam-categories/`  
+- **Purpose:** Define categories like Oral Exam, Practical Exam, Games & Sports with weightage and mandatory flags.
+
+---
+
+## 🔹 4. Create Exams
+Schedule exams by linking students with subjects.
+
+- **Endpoint:** `POST /exams/`  
+- **Purpose:** Create exams mentioning student, subject, date, and status (Scheduled/Completed).
+
+---
+
+## 🔹 5. Create Scores
+Finally, record scores for each exam based on different exam categories.
+
+- **Endpoint:** `POST /scores/`  
+- **Purpose:** Input category-wise marks, remarks, and evaluator for each exam.
+
+---
 
 
 
